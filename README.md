@@ -19,7 +19,7 @@
 3. Third Semester(EE-3I)
 4. [Fourth Semester(EE-4I)](#four-second-semesteree-4i)
 5. Fifth Semester(EE-5I)
-6. Sixth Semester(EE-6I)
+6. [Sixth Semester(EE-6I)](#six-sixth-semesteree-6i)
 
 <!-- Second semester modal paper with syallabus copy -->
 ### :two: Second Semester(EE-2I)
@@ -64,3 +64,25 @@
 |           |                                                     |                  | 2019 summer   | [Click-here](https://msbte.engg-info.website/sites/default/files/s19mo-22337-33446/22421-2019-Summer-model-answer-paper%5BMsbte-study-resources%5D.pdf) |
 | 5         | Environmental Studies                               | 22447            | 2019 winter   | Click-here |
 |           |                                                     |                  | 2019 summer   | Click-here |
+
+
+<!-- Sixth semester modal paper with syallabus copy -->
+### :six: Sixth Semester(EE-6I)
+
+<!-- Syallabus -->
+* [syllabus copy](https://drive.google.com/file/d/19qa_s8ffwnpFBnY6KLqPwezGXzTNf-vA/view)
+
+<!-- Modal Question paper table -->
+
+| **Sr no** | **Subject Name**                          | **Subject code** | **Exam Time** | **Link**   |
+|-----------|-------------------------------------------|------------------|---------------|------------|
+| 1         | Mainatanence of electrical Equipment      | 22625            | Sample Paper  | [Click-here](https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22625-sample-question-paper%5BMsbte%20study%20resources%5D.pdf) |
+| 2         | Utilization of electrical energy          | 22626            | Sample paper  | [click-here](https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22626-sample-question-paper%5BMsbte%20study%20resources%5D.pdf) |
+| 3         | Electrical Estimation and costing         | 22627            | Sample paper  | [click-here](https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22627-sample-question-paper%5BMsbte%20study%20resources%5D.pdf) |
+| 4         | Emerging trends in electrical engineering | 22628            | Sample Paper  | [click-here](https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22628-sample-question-paper%5BMsbte%20study%20resources%5D.pdf) |
+| 5         | Industrial drives and control             | **22629****       | Sample Paper  | [click-here](https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22629-sample-question-paper%5BMsbte%20study%20resources%5D.pdf) |
+| 6         | Power system operation and control        | **22632****       | Sample Paper  | [click-here](https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22632-sample-question-paper%5BMsbte%20study%20resources%5D.pdf) |
+| 7         | Electrical substation Pratices            | **22633****           | Sample paper  | [click-here](https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22633-sample-question-paper%5BMsbte%20study%20resources%5D.pdf) |
+
+<!-- Elective subject note -->
+<h6> Note : ** on subject code indicates Elective subject </h6>
